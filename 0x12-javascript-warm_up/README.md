@@ -1,8 +1,4 @@
-0x12. JavaScript - Warm up
-JavaScript
- By: Guillaume
- Weight: 1
- Project over - took place from Mar 13, 2023 6:00 AM to Mar 14, 2023 6:00 AM
+Project over - took place from Mar 13, 2023 6:00 AM to Mar 14, 2023 6:00 AM
  An auto review will be launched at the deadline
 In a nutshell…
 Auto QA review: 0.0/113 mandatory & 0.0/29 optional
