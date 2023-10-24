@@ -10,4 +10,3 @@ fs.writeFile(file, write_, 'utf8', function (error) {
     console.log(error);
   }
 });
-
